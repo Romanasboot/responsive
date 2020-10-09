@@ -1,0 +1,12 @@
+
+header {
+	background-color: #aa88dd;
+	height: 350px;
+}
+
+
+main.row: first-child{
+	background-color: grey;
+	border: solid;
+}
+
